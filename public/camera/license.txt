@@ -1,0 +1,11 @@
+Model Information:
+* title:	Large Reinforcement Cameraman
+* source:	https://sketchfab.com/3d-models/large-reinforcement-cameraman-9fa3131d74744c22a9f1b8eff691291d
+* author:	jared is a goober (https://sketchfab.com/jared2024_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Large Reinforcement Cameraman" (https://sketchfab.com/3d-models/large-reinforcement-cameraman-9fa3131d74744c22a9f1b8eff691291d) by jared is a goober (https://sketchfab.com/jared2024_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
